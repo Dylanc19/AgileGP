@@ -1,7 +1,7 @@
 import datetime
 print("Hello world!")
 #Testing3
-#Trying againm
+
 print("Testing the new method")
 now = datetime.datetime.now()
 print ("Current date and time is ")
